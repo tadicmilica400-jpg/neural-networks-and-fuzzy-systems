@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.DS_Store
+__MACOSX/
+cnn/Patterns/
+cnn/data/
+cnn/Patterns.csv
+*.h5
+*.keras
+
+.env
+.env.*
+!.env.example
+.pytest_cache/
+results/
